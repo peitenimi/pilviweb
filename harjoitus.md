@@ -12,7 +12,7 @@ Sivulle pystyy lisämään omia tehtäviä vain jos on kirjautunut sisään. Aut
 
 Testasin selaimen responsiivisuutta kehittäjätyökaluilla sekä omalla puhelimella.
 
-Sivusto skaalautuu eri näyttöleveyksille siten, että sisältö pysyy luettavana ja
+Sivusto skaalautuu eri näyttöleveyksille niin, että sisältö pysyy luettavana ja
 toiminnot ovat helposti käytettävissä myös pienemmillä näytöillä. Navigaatio,
 lomakkeet ja painikkeet mukautuvat näytön leveyden mukaan, eikä sisältöä mene
 päällekkäin tai ruudun ulkopuolelle.
